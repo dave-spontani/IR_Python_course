@@ -1,0 +1,5 @@
+#Now that you have created your Mini-shop, find out the following characteristics:
+
+#0. Who is your best customer?
+#1. What was our biggest order? When was it? 
+#2. What is 
